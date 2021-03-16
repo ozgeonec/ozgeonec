@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 🔭 I’m currently working on React && React Native
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgeonec)](https://github.com/anuraghazra/github-readme-stats)
+
