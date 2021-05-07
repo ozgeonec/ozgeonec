@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 
 
-🔭 I’m currently working on React && React Native && ✨ Clean Code ✨ !
+🔭 I’m currently working on React && React Native && ✨ Clean Code ✨ 
 
 
