@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ![eee0c1dc806da44930fc6eb26b94a737](https://user-images.githubusercontent.com/53258721/110036561-44cae200-7d4e-11eb-9d4f-58510dc24e38.gif)
+
+[68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966](https://user-images.githubusercontent.com/53258721/117412793-de189f00-af1d-11eb-96d5-ad6af9d86bed.gif)
 -->
 
 
 
-🔭 I’m currently working on React && React Native && ✨ Clean Code ✨ ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966](https://user-images.githubusercontent.com/53258721/117412793-de189f00-af1d-11eb-96d5-ad6af9d86bed.gif)
+🔭 I’m currently working on React && React Native && ✨ Clean Code ✨ !
 
 
