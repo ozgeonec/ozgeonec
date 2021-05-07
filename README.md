@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![eee0c1dc806da44930fc6eb26b94a737](https://user-images.githubusercontent.com/53258721/110036561-44cae200-7d4e-11eb-9d4f-58510dc24e38.gif)
 -->
-![eee0c1dc806da44930fc6eb26b94a737](https://user-images.githubusercontent.com/53258721/110036561-44cae200-7d4e-11eb-9d4f-58510dc24e38.gif)
+
 
 
 🔭 I’m currently working on React && React Native && ✨ Clean Code ✨
