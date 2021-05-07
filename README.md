@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 
 🔭 I’m currently working on React && React Native && ✨ Clean Code ✨
+![image](https://user-images.githubusercontent.com/53258721/117412672-b6c1d200-af1d-11eb-9ece-92778e9b90e1.png)
