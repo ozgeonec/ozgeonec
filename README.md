@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 
 🔭 I’m currently working on React && React Native && ✨ Clean Code ✨
-![image](https://user-images.githubusercontent.com/53258721/117412672-b6c1d200-af1d-11eb-9ece-92778e9b90e1.png)
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966](https://user-images.githubusercontent.com/53258721/117412793-de189f00-af1d-11eb-96d5-ad6af9d86bed.gif)
+
