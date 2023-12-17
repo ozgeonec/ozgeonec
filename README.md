@@ -23,5 +23,13 @@ Here are some ideas to get you started:
 🔭 Hi, I’m currently working on React && React Native && ✨ Clean Code ✨ 
 
 
-Languages and Tools:
+Languages and Tools:</br>
+![image](https://github.com/ozgeonec/ozgeonec/assets/53258721/19002e83-c255-47ee-865c-cfcad43527d1)
+![image](https://github.com/ozgeonec/ozgeonec/assets/53258721/61ed04f9-61cb-4c36-9f3b-5572b9791cca)
+![image](https://github.com/ozgeonec/ozgeonec/assets/53258721/a81104ab-17a2-43fb-a904-5c6a76418f11)
+![image](https://github.com/ozgeonec/ozgeonec/assets/53258721/29856c45-ff59-4244-aed3-0eeb746dd056)
+
+
+
+
 bash circleci css3 docker express figma gatsby git heroku html5 javascript jest mongodb nestjs nextjs nodejs postgresql postman react reactnative redux sass typescript
