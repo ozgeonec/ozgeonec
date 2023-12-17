@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 🔭 Hi, I’m currently working on React && React Native && ✨ Clean Code ✨ 
 
 
+Languages and Tools:
+bash circleci css3 docker express figma gatsby git heroku html5 javascript jest mongodb nestjs nextjs nodejs postgresql postman react reactnative redux sass typescript
