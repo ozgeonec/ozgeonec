@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-🔭 Hi, I’m currently working on React && React Native && ✨ Clean Code ✨ 
+🔭 Hi, I’m currently working with React && React Native && ✨ Clean Code ✨ 
 
 
 <h5 align="left">Languages and Tools:</h5>
